@@ -1,4 +1,9 @@
-# Allowance Budget Planner
+# --------------------------------------------------------------------------------------------------------
+# Project Title: Allowance Budget Planner
+# Group members: Darmi Chloe O. Dumago, Jazzrell Lou De Gracia, Zhaina Guinevere P. Erbito
+# The Allowance Budget Planner is a simple Python program that helps a student track their
+# allowance, record expenses, and check their remaining balance using a menu until they choose to exit.
+# --------------------------------------------------------------------------------------------------------
 
 # Function 1: Get a valid number from the user
 def GetNumber(prompt):
